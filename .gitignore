@@ -1,0 +1,70 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+# Auto generated VS files
+.vs/
+
+# Visual Studio cache files
+*.VC.db
+*.VC.VC.opendb
+
+# Rider IDE files
+.idea/
+
+# DotCover files
+*.dotCover
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+
+# NuGet project-specific files
+*.nuspec
+*.psmdcp
+
+# Microsoft Azure Build Artifacts
+csx/
+*.build.csdef
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*.pdb
+
+# Publish output
+publish/
+
+# Test results
+TestResults/
+
+# Docker files
+*.dockerignore
+
+# JetBrains Rider
+.idea/
+
+# Node modules (if any front-end part)
+node_modules/
